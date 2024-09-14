@@ -135,7 +135,7 @@ const App = () => {
       {currentStep === 9 && selectedUser === 'Marie-Annick' && (
         <div>
            <>
-         <h2>SUPER 🎉 ON EST HEUREUSE DE TE COMPTER PARMI NOUS !</h2>
+         <h2>SUPER 🎉 ON EST HEUREUSESs DE TE COMPTER PARMI NOUS !</h2>
          <p>On prévoit un repas cool ensemble pour le midi</p>
 
          {/* Confetti component */}
@@ -198,7 +198,7 @@ const App = () => {
       {currentStep === 9 && selectedUser === 'Denis' && (
         <div>
            <>
-         <h2>SUPER 🎉 ON EST HEUREUSE DE TE COMPTER PARMI NOUS !</h2>
+         <h2>SUPER 🎉 ON EST HEUREUSESs DE TE COMPTER PARMI NOUS !</h2>
          <p>On prévoit un repas cool ensemble pour le midi</p>
 
          {/* Confetti component */}
@@ -255,7 +255,7 @@ const App = () => {
       {currentStep === 9 && selectedUser === 'Esther et Mallo' && (
         <div>
            <>
-         <h2>SUPER 🎉 ON EST HEUREUSE DE TE COMPTER PARMI NOUS !</h2>
+         <h2>SUPER 🎉 ON EST HEUREUSES DE TE COMPTER PARMI NOUS !</h2>
          <p>On prévoit un repas cool ensemble pour le midi</p>
 
          {/* Confetti component */}
@@ -317,7 +317,7 @@ const App = () => {
 
       {currentStep === 9 && selectedUser === 'Auriane' && (
          <>
-         <h2>SUPER 🎉 ON EST HEUREUSE DE TE COMPTER PARMI NOUS !</h2>
+         <h2>SUPER 🎉 ON EST HEUREUSES DE TE COMPTER PARMI NOUS !</h2>
          <p>On prévoit un repas cool ensemble pour le midi</p>
 
          {/* Confetti component */}
